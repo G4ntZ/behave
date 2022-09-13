@@ -1,0 +1,8 @@
+allure
+allure-behave
+allure-pytest
+allure-python-commons
+behave
+selenium
+pytest
+autopep8
